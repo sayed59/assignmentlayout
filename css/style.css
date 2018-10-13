@@ -1,0 +1,123 @@
+body{}
+.container{
+    width: 1200px;
+    
+    height: 600px;
+    margin: 0 auto;
+    background: whitesmoke
+}
+
+.col-3-1{
+    width: 33.33%;
+    height: 200px;
+    float: left;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.green{
+    background: green;
+    height: 100%;
+}
+    
+
+.col-3-2{
+    width: 66.66%;
+    float: left;
+    height: 200px;
+    padding: 5px;
+    box-sizing: border-box;
+     background: yellowgreen ; 
+}
+.col-2-1{
+    height: 200px;
+    width: 50%;
+    
+    box-sizing: border-box;
+    float: left;
+   
+}
+.yellow{
+    background: yellow;
+    height: 100%;
+}
+.col-2-1{
+    height: 200px;
+    width: 50%;
+    box-sizing: border-box;
+    
+    float: left;
+    
+
+}
+.blue{
+    background: blue;
+    height: 100%;
+}
+.col-3-1{
+    height: 200px;
+    width: 33.33%;
+    padding: 5px;
+    box-sizing: border-box;
+    float: left;
+    }
+ .skyblue{
+    background: skyblue;
+    height: 100%;
+}
+
+.col-3-1{
+    height: 200px;
+    width: 33.33%;
+    padding: 5px;
+    box-sizing: border-box;
+    float: left;
+    ;
+}
+.brown{
+    background: brown;
+    height: 100%;
+}
+.col-3-1{
+    height: 200px;
+    width: 33.33%;
+    padding: 5px;
+    box-sizing: border-box;
+    float: left;
+    ;
+}
+.orange{
+    background: orange;
+    height: 100%;
+}
+.col-2-1{
+    height: 200px;
+    width: 50%;
+    padding: 5px;
+    box-sizing: border-box;
+    float: left;
+    ;
+}
+
+.purple{
+    background: purple;
+    height: 100%;
+}
+.col-5-4{
+    height: 200px;
+    width: 40%;
+    padding: 5px;
+    box-sizing: border-box;
+    float: left;
+    ;
+}
+.darkgreen{
+    background: darkgreen;
+    height: 100%;}
+
+.col-5-1{height: 200px;width: 10%;padding: 5px;box-sizing: border-box;float: left;}
+
+.snowwhite{
+    background: #a45015;
+    height: 100%;
+}
+.auto-height{    height: 100%}
